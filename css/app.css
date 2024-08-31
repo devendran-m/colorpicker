@@ -1,0 +1,13 @@
+.body{
+    background-color: hsl(210, 12%, 93%);    
+}
+
+.color-picker {
+    display: grid;    
+    place-items: center;
+    height: 100vh;
+    grid-template-columns: auto;
+    grid-template-rows: auto;        
+    height: 20px;
+    margin: 20px;            
+}
